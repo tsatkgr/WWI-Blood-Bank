@@ -18,10 +18,10 @@ nav{
 }
 
 .content{
-        margin-top:12px;
+        margin-bottom:0px;
         margin-left:auto;
         margin-right:auto;
-        padding:30px 30px 30px 30px;
+        padding:30px;
         width:100%;
         background-color: #EA5911;
 }
