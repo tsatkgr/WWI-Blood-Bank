@@ -1,6 +1,6 @@
 body{
-  margin:0;
-  padding:0;
+  margin:0px;
+  padding:0px;
   background-image:url(blood.jpg);
   background-size:cover;
   background-repeat: no-repeat;
@@ -18,10 +18,9 @@ nav{
 }
 
 .content{
-        margin-top:0px;
-        margin-left:auto;
-        margin-right:auto;
-        padding:30px;
-        width:100%;
-        background-color: #EA5911;
+            margin-left: auto;
+    margin-right: auto;
+    padding: 0px 0px 0px 0x;
+    width: 100%;
+    background-color: rgba(15, 15, 15, 0.45);
 }
