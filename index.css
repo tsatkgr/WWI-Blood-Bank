@@ -7,13 +7,13 @@ body{
 }
 
 a{
-  text-size:15px;
   padding:10px;
   text-decoration:none;
   font-family:"Varela Round";
-  color:gray;
+  color:white;
 }
 nav{
+  text-size:15px;
  background-color:#E74C3C;
   
  
