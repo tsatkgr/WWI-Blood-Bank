@@ -18,7 +18,10 @@ nav{
 }
 
 .content{
-  width:100px;
-  background-color:red;
-  margin-bottom:0px;
+        margin-top:12px;
+        margin-left:auto;
+        margin-right:auto;
+        padding:30px 30px 30px 30px;
+        width:100%;
+        background-color: #EA5911;
 }
