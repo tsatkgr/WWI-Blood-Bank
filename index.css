@@ -5,3 +5,9 @@ body{
   background-size:cover;
   background-repeat: no-repeat;
 }
+
+a{
+  text-size:15px;
+  padding:10px;
+  text-decoration:none;
+}
