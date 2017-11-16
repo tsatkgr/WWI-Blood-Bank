@@ -23,7 +23,7 @@ nav{
     margin-bottom: 0px;
     margin-left: 0;
     margin-right: 0;
-    padding-bottom:50px;
+    padding:30px;
     width: 100%;
     background-color: #E74C3C;
 }
@@ -31,7 +31,7 @@ nav{
 h2{
   font-family: 'Monoton', cursive;
   color:white;
-  padding:30px;
+  padding:0px;
   margin:0px;
 }
 
