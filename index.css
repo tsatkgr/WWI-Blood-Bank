@@ -16,3 +16,9 @@ a{
 nav{
  background-color:#E74C3C;
 }
+
+.content{
+  width:100px;
+  background-color:red;
+  margin-bottom:0px;
+}
