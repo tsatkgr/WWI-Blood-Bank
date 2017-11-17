@@ -27,6 +27,10 @@ nav{
     background-color: #E74C3C;
 }
 
+#text-style{
+  font-family:"Varela Round";
+}
+
 h2{
   font-family: 'Monoton', cursive;
   color:white;
